@@ -1,0 +1,13 @@
+{
+    "name": "thesebas/simplecdn",
+    "type": "project",
+    "authors": [
+        {
+            "name": "thesebas",
+            "email": "thesebas@thesebas.net"
+        }
+    ],
+    "require": {
+        "predis/predis": "^1.1"
+    }
+}
